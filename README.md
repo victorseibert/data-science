@@ -1,0 +1,1 @@
+Primeira tentativa de ciência de dados com a imersão da Alura.
